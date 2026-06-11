@@ -137,7 +137,7 @@ public:
 
 ## 🤝 Let’s Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-8E44AD?style=for-the-badge&logo=linkedin&logoColor=white)][(https://www.linkedin.com/in/aliaa-younes-17608b389/)]
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-8E44AD?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aliaa-younes-17608b389/)
 [![Email](https://img.shields.io/badge/Gmail-E91E8C?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aliaayounes22@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-8E44AD?style=for-the-badge&logo=google-chrome&logoColor=white)](https://aliaayounes22-crypto.github.io)
 
