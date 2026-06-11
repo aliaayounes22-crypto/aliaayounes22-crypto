@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=17,20,24&height=220&section=header&text=Aliaa%20Younes&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=✦%20Developer%20%20%7C%20%20Digital%20Marketer%20%20%7C%20%20Leader%20✦&descAlignY=56&descSize=16"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=220&section=header&text=Aliaa%20Younes&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=✦%20Developer%20%20%7C%20%20Digital%20Marketer%20%20%7C%20%20Freelancer%20✦&descAlignY=56&descSize=16"/>
 </div>
 
 <br/>
@@ -7,9 +7,8 @@
 <div align="center">
 
 
-> *"Love does not consist of gazing at each other, but in looking outward together in the same direction."*
-
- **— Antoine de Saint-Exupéry** 
+> *“Love does not consist of gazing at each other, but in looking outward together in the same direction.”*
+> — **Antoine de Saint-Exupéry** 🖤
 
 </div>
 
@@ -27,9 +26,9 @@
 class Aliaa {
 private:
     string name       = "Aliaa Younes";
-    string nickname   = "Loli ";
+    string nickname   = "Lolo 💜";
     string uni        = "Egyptian Chinese University";
-    string year       = "2nd Year CS Student";
+    string year       = "1st Year CS Student";
 
 public:
     vector<string> values  = { "Discipline", "Love", "Respect" };
@@ -157,5 +156,5 @@ public:
 </div>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=17,20,24&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=120&section=footer"/>
 </div>
