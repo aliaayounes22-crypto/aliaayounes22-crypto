@@ -29,7 +29,7 @@ private:
     string name       = "Aliaa Younes";
     string nickname   = "Lolo 💜";
     string uni        = "Egyptian Chinese University";
-    string year       = "1st Year CS Student";
+    string year       = "2nd Year CS Student";
 
 public:
     vector<string> values  = { "Discipline", "Love", "Respect" };
