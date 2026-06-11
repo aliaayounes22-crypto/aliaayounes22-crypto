@@ -9,7 +9,7 @@
 
  *“Love does not consist of gazing at each other, but in looking outward together in the same direction.”*
 
- — **Antoine de Saint-Exupéry** 🖤
+ — **Antoine de Saint-Exupéry** 
 
 </div>
 
@@ -27,7 +27,6 @@
 class Aliaa {
 private:
     string name       = "Aliaa Younes";
-    string nickname   = "Lolo 💜";
     string uni        = "Egyptian Chinese University";
     string year       = "2nd Year CS Student";
 
