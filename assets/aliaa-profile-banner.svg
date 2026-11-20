@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="350" viewBox="0 0 1200 350" role="img" aria-label="Aliaa Younes — Code meets creativity">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0B1025"/>
+      <stop offset="55%" stop-color="#20163A"/>
+      <stop offset="100%" stop-color="#35244C"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#D6C2FF"/>
+      <stop offset="52%" stop-color="#B0CBFF"/>
+      <stop offset="100%" stop-color="#FFC3D8"/>
+    </linearGradient>
+    <linearGradient id="card" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#8D79D9" stop-opacity="0.26"/>
+      <stop offset="100%" stop-color="#EBB3DA" stop-opacity="0.08"/>
+    </linearGradient>
+    <clipPath id="round"><rect width="1200" height="350" rx="24"/></clipPath>
+  </defs>
+  <g clip-path="url(#round)">
+    <rect width="1200" height="350" fill="url(#bg)"/>
+    <circle cx="1095" cy="25" r="265" fill="#8B5FBF" opacity="0.12"/>
+    <circle cx="120" cy="355" r="200" fill="#6078B7" opacity="0.09"/>
+    <path d="M710 0 L920 350 M865 0 L1075 350 M1020 0 L1200 300" stroke="#DCC6FF" stroke-opacity="0.07" stroke-width="1"/>
+    <g fill="#F4E8FF" opacity="0.65">
+      <circle cx="745" cy="48" r="2"/><circle cx="854" cy="255" r="2"/><circle cx="1050" cy="88" r="1.5"/>
+      <circle cx="1130" cy="265" r="2"/><circle cx="960" cy="32" r="1.5"/>
+      <circle cx="666" cy="290" r="1.5"/><circle cx="1166" cy="140" r="1.5"/>
+    </g>
+    <rect x="64" y="49" width="284" height="29" rx="14.5" fill="#D5C2FF" fill-opacity=".10" stroke="#D8C5FF" stroke-opacity=".3"/>
+    <text x="83" y="68" font-family="Verdana,Arial,sans-serif" font-size="12" fill="#E4D7FF" letter-spacing="2.2">DEVELOP · DESIGN · DISCOVER</text>
+    <text x="65" y="170" font-family="Verdana,Arial,sans-serif" font-size="66" font-weight="700" letter-spacing="-2" fill="#FFFFFF">Aliaa <tspan fill="url(#accent)">Younes</tspan></text>
+    <rect x="66" y="187" width="88" height="4" rx="2" fill="url(#accent)"/>
+    <text x="66" y="231" font-family="Verdana,Arial,sans-serif" font-size="22" fill="#F2EAFE">where code meets creativity.</text>
+    <text x="66" y="271" font-family="Verdana,Arial,sans-serif" font-size="14" fill="#C2B6D8">COMPUTER SCIENCE  /  DIGITAL EXPERIENCES  /  IDEAS WITH IMPACT</text>
+    <g transform="translate(836 48)">
+      <rect x="5" y="14" width="295" height="234" rx="19" fill="url(#card)" stroke="#D9C2FF" stroke-opacity=".31"/>
+      <rect x="29" y="42" width="247" height="178" rx="12" fill="#14182F" stroke="#9D8ABE" stroke-opacity=".35"/>
+      <circle cx="50" cy="62" r="4" fill="#F7B4C9"/><circle cx="65" cy="62" r="4" fill="#F7DBAA"/><circle cx="80" cy="62" r="4" fill="#A4E5C8"/>
+      <text x="50" y="101" font-family="Consolas,Monaco,monospace" font-size="14" fill="#D6C2FF">const aliaa = {</text>
+      <text x="64" y="128" font-family="Consolas,Monaco,monospace" font-size="14" fill="#BDDEF9">curious: true,</text>
+      <text x="64" y="155" font-family="Consolas,Monaco,monospace" font-size="14" fill="#FFC3D8">creative: true,</text>
+      <text x="64" y="182" font-family="Consolas,Monaco,monospace" font-size="14" fill="#C7E9CA">alwaysLearning: true</text>
+      <text x="50" y="203" font-family="Consolas,Monaco,monospace" font-size="14" fill="#D6C2FF">};</text>
+      <circle cx="283" cy="10" r="37" fill="#C6B3EF" fill-opacity=".16" stroke="#C6B3EF" stroke-opacity=".4"/>
+      <path d="M285 -9a18 18 0 1 0 17 27a22 22 0 1 1-17-27" fill="#E6D9FF" opacity=".8"/>
+    </g>
+  </g>
+</svg>
